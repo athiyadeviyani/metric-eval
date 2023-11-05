@@ -1,0 +1,1 @@
+/Users/athiyadeviyani/trec_eval/./trec_eval -q -c -M1000 qrels run > out.txt
